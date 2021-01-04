@@ -12,4 +12,6 @@ TPythonLib
 >• Every record consists of fields separated by a single character delimiter      
 >• Every record has the same sequence of fields        
 
+##  101-ReadingWritingDirectories
 
+* Reading/Writing directories
