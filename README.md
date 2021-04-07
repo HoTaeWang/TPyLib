@@ -1,6 +1,12 @@
 # TPyLib
 TPythonLib
 
+## 00 Basic
+* Time
+* Random
+* Keyword display
+* tuple
+
 ## 100 CSV_ReaderWriter
 
 * CSV Read/Writer 
